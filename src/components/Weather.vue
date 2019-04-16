@@ -14,7 +14,7 @@
             </v-flex>
             <v-flex xs3>
               <v-img
-                :src="`http://openweathermap.org/img/w/${weather.icon}.png`"
+                :src="`https://openweathermap.org/img/w/${weather.icon}.png`"
                 height="125px"
                 contain
               ></v-img>
